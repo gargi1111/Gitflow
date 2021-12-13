@@ -1,4 +1,7 @@
 This is master commit
 This is develop commit
+<<<<<<< HEAD
 This is f1 commit
+=======
 This is f2 commit
+>>>>>>> f2
